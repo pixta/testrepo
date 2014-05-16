@@ -1,8 +1,8 @@
 base:
   '*':
     - vim
-  'i*':
+  'www*':
     - webserver
-  'minion02':
+  'db*':
     - mongodb
     
