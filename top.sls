@@ -1,8 +1,8 @@
 base:
   '*':
-    - vim
+    - htop
   'www*':
     - webserver
   'db*':
     - mongodb
-    
+   

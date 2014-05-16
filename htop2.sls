@@ -1,4 +1,4 @@
-htop_test:
+htop2_test:
    pkg:
      - installed
      - pkgs:
