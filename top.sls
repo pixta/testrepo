@@ -5,3 +5,4 @@ base:
     - webserver
   'minion02':
     - mongodb
+    
