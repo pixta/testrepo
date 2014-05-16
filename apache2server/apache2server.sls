@@ -1,4 +1,4 @@
-webserver_test:
+apache2server_test:
   pkg:
     - installed
     - pkgs:
